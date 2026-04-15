@@ -28,6 +28,15 @@ The complete guide to integrating with NeuronGate — one API for 50+ AI models.
 
 ---
 
+## Architecture
+
+<div align="center">
+<img src="assets/api-gateway-flow.png" alt="NeuronGate API Gateway" width="80%"/>
+<br/><em>One API endpoint → routes to 50+ models across 8+ providers</em>
+</div>
+
+---
+
 ## Getting Started
 
 ### 1. Create an Account
@@ -310,6 +319,10 @@ X-RateLimit-Reset: 1713200060
 ---
 
 ## Billing & Payments
+
+<div align="center">
+<img src="assets/crypto-payments.png" alt="Crypto Payments" width="70%"/>
+</div>
 
 ### Supported Cryptocurrencies
 
